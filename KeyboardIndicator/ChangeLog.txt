@@ -1,4 +1,6 @@
 Keyboard Indicator Change Log
+1.6.2.1
+- pa-at fork
 
 1.6.2.0
 - Fix startup registry key
